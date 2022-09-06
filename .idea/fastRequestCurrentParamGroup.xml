@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentParamGroup">
+    <option name="className" value="com.example.javaagenttest.RestController" />
+    <option name="method" value="test" />
+    <option name="module" value="java-agent-test" />
+    <option name="originUrl" value="/test/test" />
+    <option name="url" value="/test/test" />
+  </component>
+</project>
